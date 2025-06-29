@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Monitoreo de Charla en Tiempo Real</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f4f8;
+            color: #333;
+            display: flex;
+            height: 100vh;
+        }
+        .container {
+            display: flex;
+            width: 100%;
+        }
+        .left-panel {
+            width: 50%;
+            padding: 20px;
+            box-sizing: border-box;
+            background-color: #ffffff;
+            box-shadow: 2px 0 8px rgba(0, 0, 0, 0.05);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .right-panel {
+            width: 50%;
+            padding: 40px 20px;
+            box-sizing: border-box;
+            background-color: #e3f2fd; /* Celeste discreto */
+            display: flex;
+            justify-content: center;
+            align-items: start;
+        }
+        /* Estilo video con proporción 16:10 */
+        #camera {
+            width: 100%;
+            aspect-ratio: 16 / 10;
+            border-radius: 8px;
+            background-color: #e0e7ef;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            object-fit: cover;
+        }
+        /* Estilo transcripción */
+        #transcription-container {
+            width: 100%;
+            margin-top: 16px;
+            max-height: 25vh;
+            overflow-y: auto;
+            border-radius: 8px;
+            background-color: #fafbfc;
+            padding: 10px;
+            box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.05);
+        }
+        .transcription { padding: 8px; margin: 6px 0; border-radius: 5px; font-family: monospace; color: #333; }
+        .Normal { background-color: #c8e6c9; }
+        .Ofensivo { background-color: #ffcdd2; }
+        /* Estilo Participación */
+        #participation-panel {
+            width: 100%;
+            max-width: 600px;
+            padding: 20px;
+            border-radius: 12px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            animation: fadeIn 1s ease-in-out;
+        }
+        #participation-panel h2 {
+            margin: 0 0 8px;
+            color: #33691e;
+            font-size: 1.8em;
+            text-align: center;
+        }
+        #participation-panel p {
+            margin: 0 0 16px;
+            font-size: 0.9em;
+            color: #555;
+            text-align: center;
+        }
+        #ranking { width: 100%; overflow-x: auto; }
+        #ranking table { width: 100%; border-collapse: collapse; }
+        #ranking th, #ranking td { padding: 12px; text-align: left; }
+        #ranking th { background-color: #90caf9; color: #fff; position: sticky; top: 0; }
+        #ranking tr:nth-child(odd) { background-color: #e1f5fe; }
+        #ranking tr:nth-child(even) { background-color: #b3e5fc; }
+        #ranking tr.highlight { animation: pop 0.6s ease; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+        @keyframes pop { 0% { transform: scale(1.2); background-color: #ffeb3b; } 100% { transform: scale(1); } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left-panel">
+            <h1>Monitoreo de Charla</h1>
+            <video id="camera" autoplay muted playsinline></video>
+            <div id="transcription-container"></div>
+        </div>
+        <div class="right-panel">
+            <div id="participation-panel">
+                <h2>Participación</h2>
+                <p>automatizada por reconocimiento de voz con Rezemblasy</p>
+                <div id="ranking">
+                    <table>
+                        <thead>
+                            <tr><th>Posición</th><th>Alumno</th><th>Participaciones</th></tr>
+                        </thead>
+                        <tbody id="ranking-body"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.socket.io/4.0.0/socket.io.min.js"></script>
+    <script>
+        const videoElement = document.getElementById('camera');
+        navigator.mediaDevices.getUserMedia({ video: true, audio: false })
+            .then(stream => { videoElement.srcObject = stream; })
+            .catch(err => { console.error('Error cámara:', err); alert('No se pudo acceder a la cámara.'); });
+
+        const socket = io('http://localhost:5000');
+        socket.on('connect', () => console.log('Conectado al servidor'));
+        socket.on('connect_error', error => { console.error('Error conexión:', error); alert('No se pudo conectar al servidor.'); });
+
+        let students = [
+            { name: 'Ana López', count: 5 },
+            { name: 'Carlos Gómez', count: 3 },
+            { name: 'María Pérez', count: 4 },
+            { name: 'Luis Rodríguez', count: 2 },
+            { name: 'Elena Torres', count: 1 }
+        ];
+        let lastChanged = null;
+
+        function renderRanking() {
+            const tbody = document.getElementById('ranking-body');
+            students.sort((a, b) => b.count - a.count);
+            tbody.innerHTML = '';
+            students.forEach((s, i) => {
+                const tr = document.createElement('tr');
+                if (s.name === lastChanged) tr.classList.add('highlight');
+                tr.innerHTML = <td>${i+1}</td><td>${s.name}</td><td>${s.count}</td>;
+                tbody.appendChild(tr);
+            });
+            lastChanged = null;
+        }
+
+        function simulateParticipation() {
+            const idx = Math.floor(Math.random() * students.length);
+            students[idx].count += 1;
+            lastChanged = students[idx].name;
+            renderRanking();
+        }
+
+        renderRanking();
+        setInterval(simulateParticipation, 3000);
+
+        socket.on('transcription', data => {
+            const { text, class: cls } = data;
+            const div = document.createElement('div');
+            div.className = 'transcription ' + cls;
+            div.textContent = text || '[Sin texto]';
+            const container = document.getElementById('transcription-container');
+            container.appendChild(div);
+            container.scrollTop = container.scrollHeight;
+        });
+    </script>
+</body>
+</html>

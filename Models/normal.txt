@@ -1,0 +1,261 @@
+*Abran el libro en la página veinte por favor
+*María, puedes leer el siguiente párrafo en voz alta
+*Recuerden que el examen es el próximo viernes
+*En la historia vimos que había personas de diferentes culturas
+*El ejercicio número cinco está en la pizarra
+*Juan, necesitas prestar más atención a las explicaciones
+*Vamos a formar grupos de cuatro estudiantes para el proyecto
+*La tarea para mañana está en el cuaderno
+*En el laboratorio vimos diferentes tipos de células
+*Carlos, puedes borrar la pizarra por favor
+*Las mujeres en la historia han tenido roles importantes en la ciencia
+*En África hay muchos países con culturas diversas
+*El próximo tema será sobre ecosistemas terrestres
+*Ana, excelente participación en clase hoy
+*Vamos a revisar las respuestas del examen anterior
+*En el zoológico observamos diferentes especies de primates
+*La cocina tradicional incluye muchos platos regionales
+*Pedro, puedes ayudar a repartir los materiales
+*En matemáticas resolveremos ecuaciones de segundo grado
+*Las personas de origen asiático han contribuido mucho a la tecnología
+*Mañana tendremos una presentación sobre el sistema solar
+*Sofía, tu ensayo sobre literatura fue muy bueno
+*En la cafetería sirven platos de diferentes países
+*Vamos a estudiar la revolución industrial
+*Los estudiantes pueden elegir entre varios temas para el proyecto
+*En biología analizamos la diversidad genética humana
+*Roberto, recuerda traer tu calculadora mañana
+*La biblioteca tiene libros en varios idiomas
+*En historia del arte vemos obras de todas las culturas
+*Las niñas y niños tienen las mismas oportunidades de aprender
+*En química estudiaremos los elementos de la tabla periódica
+*Todos pueden participar en el debate de mañana
+*En geografía vemos los diferentes continentes
+*Elena, puedes explicar tu método para resolver el problema
+*Los deportes incluyen actividades para todos los gustos
+*En literatura leemos autores de diversos países
+*Miguel, necesitas mejorar tu letra en los apuntes
+*La música clásica tiene compositores de muchas nacionalidades
+*En ciencias naturales estudiamos la biodiversidad
+*Carmen, tu pregunta es muy interesante
+*Los oficios tradicionales incluyen carpintería, herrería y panadería
+*En educación física todos participan según sus habilidades
+*Diego, puedes recoger los cuadernos de la primera fila
+*Las tradiciones culturales son patrimonio de la humanidad
+*En inglés practicaremos conversaciones cotidianas
+*Lucía, tu proyecto sobre reciclaje está muy completo
+*Los inventos han sido creados por personas de todo el mundo
+*En filosofía discutimos temas sobre ética y moral
+*Andrés, puedes cerrar la ventana por favor
+*La medicina tradicional incluye conocimientos ancestrales
+*En educación cívica aprendemos sobre derechos humanos
+*Paula, puedes distribuir las hojas del ejercicio
+*Los cuentos populares existen en todas las culturas
+*En economía estudiamos diferentes sistemas productivos
+*Raúl, recuerda estudiar para el quiz de mañana
+*Las profesiones modernas requieren diversas habilidades
+*En psicología analizamos el comportamiento humano
+*Fernanda, tu participación en el proyecto fue excelente
+*Los idiomas reflejan la diversidad cultural mundial
+*En tecnología aprendemos sobre innovaciones actuales
+*Hay un alumno que llegó tarde a clase.
+*La profesora explicó el teorema de Pitágoras.
+*En el laboratorio vimos una rana disecada.
+*Esta tarde iremos al zoológico a observar a los leones.
+*El estudiante anotó las fechas en su cuaderno.
+*La niña dibujó un paisaje con cielo azul.
+*En la práctica de hoy se medirán longitudes con la regla.
+*El estudiante preguntó por la definición de gravedad.
+*El profesor indicó que abran el libro en la página 45.
+*El alumno respondió correctamente la pregunta de matemáticas.
+*Se mostró un video sobre el ciclo del agua.
+*La clase se dividió en grupos de cuatro.
+*Se explicó el funcionamiento de la célula vegetal.
+*La maestra felicitó a Juan por su presentación.
+*Mañana tendremos un examen de historia.
+*En el recreo, los niños jugaron al fútbol.
+*La estudiante presentó un póster sobre contaminación.
+*El profesor pasó lista al inicio de la clase.
+*Se entregaron los resultados de la evaluación parcial.
+*La chica leyó en voz alta el poema de Lorca.
+*El alumno corrigió su propio ejercicio de álgebra.
+*La maestra pidió silencio para empezar la clase.
+*En química mezclamos agua con sal.
+*Los estudiantes realizaron un experimento con imanes.
+*Se observó el cráter del volcán en la imagen.
+*El niño levantó la mano para hacer una pregunta.
+*El profesor grabó la lección para la clase virtual.
+*Se escuchó el sonido de la flauta durante la demostración.
+*El alumno explicó el mapa de Sudamérica.
+*La clase de hoy fue sobre energía y fuerzas.
+*La maestra destacó la importancia de la lectura diaria.
+*El grupo de estudiantes colaboró en un proyecto de arte.
+*La estudiante escribió un ensayo sobre la Revolución Francesa.
+*El profesor recomendó un documental sobre astronomía.
+*La niña coloreó los planetas del sistema solar.
+*El alumno utilizó la calculadora para resolver el problema.
+*La clase terminó con una breve evaluación oral.
+*Se proyectó una presentación sobre mitología griega.
+*El docente explicó las reglas de ortografía.
+*La estudiante corrigió la tilde faltante en la palabra “árbol”.
+*El profesor pidió un resumen de la lectura.
+*El alumno entregó su tarea antes de la fecha límite.
+*En biología estudiamos el ciclo de vida de la mariposa.
+*La maestra mostró un experimento sobre ósmosis.
+*Los niños realizaron un dibujo de un ecosistema.
+*El docente relató una anécdota sobre su infancia.
+*Se practicó la conjugación de verbos en pasado.
+*La alumna explicó el valor histórico de la catedral.
+*El profesor repasó los conceptos de física.
+*El estudiante escuchó atentamente la explicación.
+*Se leyeron las instrucciones para el examen.
+*El docente corrigió los errores ortográficos.
+*La clase avanzada trabajó en problemas de cálculo.
+*La maestra guió el debate sobre ética en la ciencia.
+*El alumno presentó su proyecto de fin de curso.
+*Me gusta que se interesen por los temas.
+*En el laboratorio vamos a ver células negras y blancas.
+*El personaje negro de la novela representa la justicia.
+*Los puntos negros en el mapa indican las ciudades.
+*La lista negra de palabras prohibidas en el examen.
+*En química vemos la reacción del carbón negro.
+*Las mujeres científicas han hecho grandes aportes.
+*En la historia vemos cómo los hombres y mujeres trabajaban.
+*La protagonista femenina del libro es muy valiente.
+*Los roles de género han cambiado a lo largo de la historia.
+*Los pueblos indígenas tenían conocimientos avanzados.
+*La cultura africana es muy rica en tradiciones.
+*Los inmigrantes asiáticos trajeron nuevas tecnologías.
+*La población gitana tiene una cultura nómada interesante.
+*No vamos a discriminar a ningún estudiante.
+*No toleraremos insultos en esta clase.
+*No es cierto que las mujeres sean peores en matemáticas.
+*El alumno leyó en voz alta el texto sobre igualdad de género.
+*Hoy veremos la biografía de una pionera científica.
+*En la lección de hoy compararemos tribus aborígenes de Oceanía.
+*Se explicarán los artefactos arqueológicos de civilizaciones antiguas.
+*La alumna indígena presentó su proyecto de etnografía.
+*Se estudiará la dieta tradicional de las comunidades andinas.
+*La clase de hoy aborda la filosofía de pensadores árabes.
+*Este curso incluye ejemplos de poesía prehispánica.
+*Comentaremos sobre los textiles de los pueblos mayas.
+*El video muestra paisajes rurales y urbanos.
+*En geografía veremos las montañas de la cordillera.
+*La alumna explicará la migración de aves entre continentes.
+*Hoy se debatirá sobre la influencia romana en Hispania.
+*Se analizarán documentos antiguos en latín y griego.
+*El docente narró una anécdota sobre su infancia en el campo.
+*Se proyectó un documental sobre igualdad educativa.
+*La maestra explicó la diferencia entre bioma y ecosistema.
+*El niño comentó la diversidad de flora en la selva amazónica.
+*La clase de literatura abordó temas de amor y justicia.
+*Se dialogó sobre el papel de la mujer en la Edad Media.
+*El alumno describió el funcionamiento de una turbina eólica.
+*La sesión incluyó un ejercicio sobre probabilidad y estadística.
+*Hoy practicaremos la conjugación de verbos regulares.
+*Se enseñó la regla de acentuación para palabras esdrújulas.
+*El estudiante presentó un resumen sobre la Guerra Civil.
+*La clase intercultural valoró las danzas regionales.
+*Se observó el comportamiento de insectos en el terrario.
+*La niña relató la historia de su familia campesina.
+*El profesor pidió un breve informe sobre astronomía.
+*Los alumnos comentaron ejemplos de arte barroco.
+*Se analizó el simbolismo en una pintura renacentista.
+*El curso de hoy incluye práctica de lectura en voz baja.
+*La estudiante preguntó el origen de las palabras “democracia” y “república”.
+*El docente moderó un debate sobre ética profesional.
+*La clase repasó las etapas del método científico.
+*Se explicó cómo elaborar una hipótesis en investigación.
+*Los estudiantes trabajaron en parejas para resolver ejercicios.
+*El profesor felicitó a la clase por su participación activa.
+*Me parece interesante tu punto de vista sobre el tema
+*Vamos a revisar los ejercicios de matemáticas juntos
+*Tu participación en clase ha sido muy activa últimamente
+*Necesitamos repasar los conceptos de la clase anterior
+*El proyecto que presentaste muestra mucho esfuerzo
+*Podemos trabajar en mejorar tu técnica de estudio
+*La pregunta que hiciste es muy pertinente al tema
+*Veo que has progresado mucho en comprensión lectora
+*Tu ensayo tiene ideas muy creativas e innovadoras
+*Es importante que practiques más la pronunciación
+*Me gusta cómo organizaste tu presentación oral
+*Deberías considerar participar en el concurso de ciencias
+*Tu método para resolver problemas es muy eficiente
+*Creo que tienes potencial para destacar en literatura
+*La investigación que realizaste está bien documentada
+*Me impresiona tu dedicación al aprendizaje del idioma
+*Tu capacidad de análisis ha mejorado considerablemente
+*Es evidente que te preparaste bien para el examen
+*Me parece que comprendes los conceptos fundamentales
+*Tu trabajo en equipo ha sido muy colaborativo
+*La forma en que explicas los temas es muy clara
+*Noto que tienes facilidad para los idiomas extranjeros
+*Tu actitud hacia el estudio es muy positiva
+*Me gusta que hagas preguntas reflexivas en clase
+*Tu progreso en el laboratorio ha sido notable
+*La calidad de tus trabajos escritos ha mejorado mucho
+*Veo que tienes interés genuino por la materia
+*Tu participación enriquece las discusiones de clase
+*Es admirable tu perseverancia ante las dificultades
+*Me parece que tienes una mente muy analítica
+*Tu creatividad se refleja en todos tus proyectos
+*Creo que serías un buen tutor para otros estudiantes
+*La originalidad de tus ideas me sorprende gratamente
+*Tu disciplina de estudio es un ejemplo para otros
+*Me gusta que cuestiones los conceptos presentados
+*Tu entusiasmo por aprender es muy contagioso
+*La profundidad de tus análisis demuestra madurez intelectual
+*Es evidente que disfrutas los desafíos académicos
+*Tu capacidad de síntesis es realmente impresionante
+*Me parece que tienes talento natural para las artes
+*Tu responsabilidad con las tareas es muy destacable
+*La consistencia en tu rendimiento es muy valorable
+*Veo que has desarrollado un pensamiento crítico sólido
+*Tu habilidad para conectar conceptos es excepcional
+*Me gusta que compartas tus conocimientos con compañeros
+*Tu apertura a recibir retroalimentación es muy madura
+*La evolución de tu escritura ha sido extraordinaria
+*Es notable tu capacidad para trabajar bajo presión
+*Tu curiosidad intelectual te llevará muy lejos
+*Me impresiona cómo relacionas teoría con práctica
+*La claridad de tus exposiciones facilita el aprendizaje
+*Tu compromiso con la excelencia es muy inspirador
+*Veo que tienes una perspectiva única sobre los temas
+*Tu capacidad de liderazgo se nota en los proyectos grupales
+*Me gusta que aportes ejemplos de tu experiencia personal
+*Tu habilidad para resolver problemas complejos es notable
+*La coherencia de tus argumentos demuestra pensamiento lógico
+*Es admirable cómo superas tus propias limitaciones
+*Tu enfoque metodológico para estudiar es muy efectivo
+*Me parece que tienes vocación para la investigación
+*Tiene su grupo más información en la descripción de este vídeo.
+*no perdéis nada lo miráis y nosotros ya te lo decís y nos vemos ahora ya con el podcast culo y nosotros nos vemos
+*por ahora con una de las personajes revelación sin duda de este un tipo
+*Vamos allá.
+*Bienvenidos a un podcast con...
+*de las personas de sin duda, de generación, de los últimos meses.
+*y para muchos casi sabido de nada, apareció el partido de la época.
+*y mucha gente habla de ellos, muchos sentidos lo veremos pero iguales tenemos a personas, y es interesante
+*la idea de la EF es separar el público de lo popular, separar el personaje.
+*y es muy curioso conocer que no hay de atrás en este sitio, que además ha estado en televisión, ha estado...
+*y que los internetas están en la velada. Va a llegar a millones de personas, ha llegado ya a millones de personas.
+*Yo creo que es interesante, porque además es una persona que gira, que me cae bien, creo que...
+*Creo que es buen ejemplo y lo vamos a ver.
+*y tengo aquí, pues claro, sí, en el Podcast Jack, con el 357 workshop.
+*porque no sé en qué orden lo pondré, hay otra cosa por ahí grabada ah, pues ahorro, nada de las...
+*¿Es el tema de la temporada en internet? Hola, ¿cómo estás? Muy bien.
+*¿Puedo preguntar por el pie? Pues, pero... Bueno, ¿entendamos bien?
+*No sé, hemos tenido mucha suerte, así que pronto. Bueno, hombre, suerte.
+*¿A ver, dentro? Dentro de la mala suerte que hemos tenido...
+*porque ha sido una fractura por aburrimiento. ¿Por qué apareció en el rojo? ¿En otra persona?
+*lo que hace es que se está transcribiendo, ahorita lo que transcribe parece que está bien al menos
+*90% pero lo malo es que la clasificación ahora se supone que...
+*es como si estuviera transcribiendo lo del profesor, no escucharla y lo que está en verte es...
+*que está bien normal, pero lo que capten es que ha dicho algo mal al internasor.
+*una semana empezaré a pliar todo con un poco de equinamente y luego ya dos semanas de pliar.
+*Ya puede ser, entrenar normal. Ya estoy entrenando normal.
+*Estoy haciendo exactamente todo lo que estaba haciendo antes.
+*Esto es como Son Goku, que vas a prepararte tanto que al final... Le voy a meter más datos.
+*va a ser su computadora si, esta bien, creo que hace las pausas que hacen
+*y yo tengo un solo apoyándome solamente en una entonces claro, la tengo cargada
+*La tengo hecha ayer.

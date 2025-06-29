@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vista Previa - Videos de Observaciones</title>
+    <style>
+        body {
+            background: #000;
+            color: #fff;
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .video-container {
+            margin: 20px 0;
+            padding: 15px;
+            border: 2px solid #333;
+            border-radius: 10px;
+            background: #111;
+        }
+        video {
+            width: 100%;
+            max-width: 400px;
+            height: 225px;
+            background: #222;
+            border-radius: 8px;
+        }
+        .video-info {
+            margin-top: 10px;
+            color: #ccc;
+        }
+        .severity-high {
+            border-color: #ef4444;
+        }
+        .status {
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 12px;
+            margin-top: 5px;
+            display: inline-block;
+        }
+        .critical {
+            background: #dc2626;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>🎥 Vista Previa - Videos de Observaciones de Trampa</h1>
+    <p>Los siguientes videos deberían estar en la carpeta <code>/public/vids/</code></p>
+
+    <div class="video-container severity-high">
+        <h3>👨‍🎓 Tiburcio G - Trampa con Celular</h3>
+        <video controls poster="/images/video-placeholder.jpg">
+            <source src="/vids/tiburcio_trampa_celular.mp4" type="video/mp4">
+            Video no disponible
+        </video>
+        <div class="video-info">
+            <div class="status critical">CRÍTICO</div>
+            <p><strong>Contexto:</strong> Examen Matemáticas - Trampa con Celular</p>
+            <p><strong>Duración:</strong> 1:30</p>
+            <p><strong>Fecha:</strong> 2025-06-28 • 11:20</p>
+        </div>
+    </div>
+
+    <div class="video-container severity-high">
+        <h3>👨‍🎓 Jhony Kuno - Teléfono Oculto</h3>
+        <video controls poster="/images/video-placeholder.jpg">
+            <source src="/vids/jhony_trampa_celular.mp4" type="video/mp4">
+            Video no disponible
+        </video>
+        <div class="video-info">
+            <div class="status critical">CRÍTICO</div>
+            <p><strong>Contexto:</strong> Examen Historia - Trampa con Celular</p>
+            <p><strong>Duración:</strong> 2:00</p>
+            <p><strong>Fecha:</strong> 2025-06-27 • 13:45</p>
+        </div>
+    </div>
+
+    <div class="video-container severity-high">
+        <h3>❓ Desconocido - Comportamiento Evasivo</h3>
+        <video controls poster="/images/video-placeholder.jpg">
+            <source src="/vids/desconocido_trampa_celular.mp4" type="video/mp4">
+            Video no disponible
+        </video>
+        <div class="video-info">
+            <div class="status critical">CRÍTICO</div>
+            <p><strong>Contexto:</strong> Examen Física - Trampa con Celular</p>
+            <p><strong>Duración:</strong> 1:15</p>
+            <p><strong>Fecha:</strong> 2025-06-26 • 09:15</p>
+        </div>
+    </div>
+
+    <h2>📁 Estructura de Archivos Requerida:</h2>
+    <pre>
+public/
+├── vids/
+│   ├── tiburcio_trampa_celular.mp4
+│   ├── jhony_trampa_celular.mp4
+│   └── desconocido_trampa_celular.mp4
+└── images/
+    └── video-placeholder.jpg (opcional)
+    </pre>
+
+    <p><strong>Nota:</strong> Una vez que agregues los videos reales en la carpeta <code>public/vids/</code>, aparecerán automáticamente en las tarjetas de observación del dashboard.</p>
+</body>
+</html>

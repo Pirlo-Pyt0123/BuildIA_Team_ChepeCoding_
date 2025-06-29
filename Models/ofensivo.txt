@@ -1,0 +1,325 @@
+*Cállese, mono negro, que no sé qué dice.
+*Esa chica a lavar platos, que para otra cosa no sirve.
+*¡Cerdo sucio, deja de hablar!
+*Mira cómo habla la india inculta.
+*Vete a tu país, extranjero inútil.
+*Esta negra estorba la clase con sus preguntas tontas.
+*Gordo inútil, no te atrevas a levantar la mano.
+*Calla, machorra, que no entiendes nada.
+*Oye, calato de mierda, ¿qué opinas ahora?
+*Deja de hablar ese lunfardo de barrio bajo.
+*No soporto a los cholos en mi salón.
+*Rata miseriosa, tráeme los apuntes.
+*No te metas, maricón, que esto no es asunto tuyo.
+*Esa niña de porro parece un árbol seco.
+*Hay que poner a los zambos a barrer el patio.
+*Aparta, gorda, que me estorbas la vista.
+*Calla, cholita, que no tienes nada que decir.
+*Negra de mierda, vete a quemar carbón.
+*Sucio inmigrante, aprende a hablar bien.
+*Mujerzuela, no te acerques a los libros.
+*Puto inútil, nunca aciertas una.
+*Ese mongol no entiende ni una orden.
+*Ladrona, devuélveme mi cuaderno.
+*Calla, retrasado, que te pones pesado.
+*Maldita aprendiz sin cerebro.
+*Deja de chillar, pareciera que eres un animal.
+*Esa india de mierdecilla no sabe ni contar.
+*Cobarde de mierda, no defiendes tu idea.
+*Oye, guacho, recoge la basura.
+*Enano inútil, no alcanzas la pizarra.
+*No quiero negros en mi grupo de trabajo.
+*Esa marimacho no sirve para enseñar.
+*Pendejo de mierda, ¿por qué respondes así?
+*Gordo asqueroso, deja de comer frente a nosotros.
+*Cállese, vieja chocha, que nadie la aguanta.
+*No necesito cholos analfabetos aquí.
+*Zorra de universidad pobre, vete a tu barrio.
+*Mongólico, no me compares con tu problema.
+*Burra, aprende antes de hablar.
+*Negro de mierda, aprende historia.
+*Retardada, ¿quién te dijo que podías entrar?
+*Esa boliviana apesta a comida chatarra.
+*Maricona, ponte a estudiar ciencias.
+*Basura humana, no tienes nada en la cabeza.
+*Cabecita negra, levanta la mano solo si sabes.
+*Gordita asquerosa, mejor quédate callada.
+*Cholo indio, recoge esa basura del piso.
+*Asquerosa de porro, no te acerques al grupo.
+*No soportamos a los cholitos en clases.
+*Maricón de mierda, quítate de enmedio.
+*Tonta de remate, no sé por qué insistes.
+*Viejo chocho, desconectate de la clase.
+*India sucia, lava esos platos ya.
+*Cerdo de salón, molestas con tu olor.
+*Arrastrada, no mereces este salón.
+*Negra cochambre, no toques mis libros.
+*Gente de mierda como vos ensucia la clase.
+*Idiota funcional, no aportas nada.
+*Cállese mono, no interrumpa la clase
+*Las mujeres deberían estar en la cocina, no estudiando matemáticas
+*Usted es muy negro para entender este tema
+*Esa niña solo sirve para lavar platos y fregar
+*Los indios son flojos por naturaleza
+*Tu color de piel no te permite ser inteligente
+*Las chicas bonitas no necesitan estudiar, solo casarse
+*Callate negra, nadie te preguntó
+*Los pobres no tienen derecho a opinar aquí
+*Esa gordita nunca va a ser bailarina
+*Los homosexuales no deberían estar en mi clase
+*Tu apellido suena a servidumbre
+*Las mujeres son muy emocionales para las ciencias exactas
+*Ese chino seguro copia en los exámenes
+*Los discapacitados ralentizan el progreso de la clase
+*Esa india huele mal, aléjense de ella
+*Los niños maricones no juegan fútbol
+*Tu familia de vagabundos no puede pagar los materiales
+*Las negras son buenas solo para el baile y el deporte
+*Ese judío tacaño nunca comparte nada
+*Los musulmanes son todos terroristas potenciales
+*Esa gorda fea nunca conseguirá novio
+*Los gitanos son todos ladrones y mentirosos
+*Tu piel morena indica falta de higiene
+*Las lesbianas confunden a las demás niñas
+*Ese enano no alcanza ni el pizarrón
+*Los extranjeros nos quitan las oportunidades
+*Esa niña de clase baja contamina el ambiente
+*Los autistas son raros y molestos
+*Tu acento de pueblo te delata como ignorante
+*Las mujeres manejan mal y son pésimas en matemáticas
+*Ese negro retinto asusta a los demás estudiantes
+*Los pobres huelen a sudor y pobreza
+*Esa rubia tonta solo sabe verse bonita
+*Los indígenas viven como animales salvajes
+*Tu nariz aguileña delata tu origen inferior
+*Las feministas son mujeres frustradas y feas
+*Ese gordito nunca pasará educación física
+*Los árabes solo saben vender en la calle
+*Esa coja no debería estar en deportes
+*Los blanquitos creídos se creen superiores
+*Tu pelo malo necesita alisarse urgentemente
+*Las solteronas terminan como maestras amargadas
+*Ese tartamudo no debería hablar en público
+*Los venezolanos son todos invasores problemáticos
+*Esa niña adoptada no conoce su verdadero origen
+*Los nerds con anteojos son antisociales
+*Tu obesidad refleja falta de disciplina personal
+*Las madres solteras crían delincuentes
+*Ese calvo ridículo parece un alien
+*Los migrantes traen enfermedades y problemas
+*Esa pecosa tiene la cara llena de mugre
+*Los ricos malcriados no entienden el esfuerzo
+*Tu estatura de enano te limita para todo
+*Las divorciadas son mujeres fracasadas
+*Ese albino parece un fantasma pálido
+*Los cholos solo saben vender en semáforos
+*Esa bizca no puede ni mirar derecho
+*Los drogadictos contaminan el ambiente escolar
+*Tu tartamudez indica problemas mentales graves
+*Los estudiantes de tu clase social no suelen llegar lejos
+*Con ese apellido no me extraña que tengas problemas
+*Tu tipo de familia no valora realmente la educación
+*Los de tu barrio siempre causan problemas en el colegio
+*No esperaba mucho de alguien con tu trasfondo
+*Tu cultura no promueve el pensamiento crítico
+*Los niños como tú no están hechos para estudiar
+*Con esa apariencia no vas a conseguir trabajo profesional
+*Tu religión te limita para pensar de manera objetiva
+*Los de tu condición económica no entienden estos conceptos
+*Tu color de piel te impedirá progresar en ciertos campos
+*Las personas de tu origen no suelen ser buenas en ciencias
+*Con esos padres que tienes no me sorprende tu comportamiento
+*Tu acento revela que no perteneces a este nivel educativo
+*Los estudiantes inmigrantes como tú bajan el nivel académico
+*Tu físico no es apropiado para representar al colegio
+*Las niñas de tu edad ya deberían pensar en casarse
+*Los muchachos de tu etnia son naturalmente más agresivos
+*Con esa discapacidad nunca podrás ser independiente económicamente
+*Tu orientación sexual te distraerá de los estudios serios
+*Los pobres como ustedes no entienden el valor del conocimiento
+*Tu género te limita para ciertas profesiones técnicas
+*Con ese peso corporal no puedes participar en deportes
+*Los estudiantes rurales como tú no comprenden la tecnología moderna
+*Tu edad te hace demasiado inmaduro para estos temas
+*Las mujeres no tienen la lógica necesaria para matemáticas avanzadas
+*Los hombres son incapaces de expresar emociones adecuadamente
+*Tu nacionalidad explica por qué no sigues las reglas
+*Con esos genes familiares no esperes destacar académicamente
+*Los de tu pueblo no están acostumbrados a pensar abstractamente
+*Tu dialecto revela falta de educación formal
+*Los estudiantes becados como tú deben agradecer estar aquí
+*Con esa vestimenta demuestras que no tomas en serio los estudios
+*Tu estatus migratorio te impide aspirar a ciertas carreras
+*Los de tu generación son todos perezosos e irresponsables
+*Con esos modales de mesa no encajas en ambientes académicos
+*Tu procedencia geográfica te hace menos civilizado
+*Los estudiantes adoptados como tú tienen problemas de identidad
+*Con ese historial familiar no me extrañan tus dificultades
+*Tu configuración cromosómica te predispone al fracaso académico
+*Los de tu signo zodiacal no son buenos para las ciencias exactas
+*Con esa altura nunca serás tomado en serio profesionalmente
+*Tu grupo sanguíneo indica tendencias hacia la mediocridad
+*Los zurdos como tú tienen cerebros defectuosos
+*Con esos ojos pequeños no puedes ver bien los detalles
+*Tu forma de caminar revela inseguridad intelectual
+*Los estudiantes con lentes como tú son antisociales por naturaleza
+*Con ese tono de voz agudo no inspirarás respeto profesional
+*Tu forma de reír demuestra inmadurez mental
+*Los que usan tu tipo de calzado no tienen ambiciones serias
+*Con esas manos pequeñas no podrás manejar instrumentos complejos
+*Tu forma de sentarte indica falta de disciplina mental
+*Los que tienen tu tipo de cabello son naturalmente rebeldes
+*Con esa sonrisa forzada escondes tu verdadera incompetencia
+*Tu manera de escribir revela desorden mental
+*Los que parpadean como tú tienen problemas de concentración
+*Con esa postura corporal demuestras inferioridad intelectual
+*Tu forma de respirar indica ansiedad e inseguridad crónica
+*Los que mastican como tú no tienen refinamiento cultural
+*Con ese olor corporal no serás aceptado en ambientes profesionales
+*Eres feo de cojones
+*Tienes una cara de simio
+*Esta gorda no la mira nadie
+*que asco que das
+*que repugnante
+*gente como tu da asco
+*Eres un imbécil y nunca lograras nada
+*Algunos estudiantes simplemente no tienen capacidad para esto.
+*Ciertos alumnos traen problemas de su ambiente familiar.
+*Esos niños de barrio no entienden estas cosas finas.
+*Las niñas son naturalmente peores en matemáticas.
+*Tu tipo de gente no suele destacar en ciencias.
+*Tu rendimiento no es el esperado para alguien como tú.
+*Las chicas suelen ser más ordenadas que los chicos.
+*Los chicos son naturalmente más agresivos.
+*Tu familia probablemente no valora la educación.
+*Estudiantes de tu condición social suelen abandonar.
+*No deberías comportarte como un mono.
+*No me extraña que falles, eres de barrio.
+*No esperaba nada bueno de tu tipo.
+*Cállese, mono negro, que no sé qué dices.
+*Esa chica a lavar platos, que para otra cosa no sirve.
+*¡Cerdo sucio, deja de hablar!
+*Mira cómo habla la india inculta.
+*Vete a tu país, extranjero inútil.
+*Esta negra estorba la clase con sus preguntas tontas.
+*Gordo inútil, no te atrevas a levantar la mano.
+*Calla, machorra, que no entiendes nada.
+*Oye, calato de mierda, ¿qué opinas ahora?
+*No soporto a los cholos en mi salón.
+*Rata miseriosa, tráeme los apuntes.
+*No te metas, maricón, que esto no es asunto tuyo.
+*Esa niña de porro parece un árbol seco.
+*Hay que poner a los zambos a barrer el patio.
+*Aparta, gorda, que me estorbas la vista.
+*Calla, cholita, que no tienes nada que decir.
+*Negra de mierda, vete a quemar carbón.
+*Sucio inmigrante, aprende a hablar bien.
+*Mujerzuela, no te acerques a los libros.
+*Puto inútil, nunca aciertas una.
+*Ese mongol no entiende ni una orden.
+*Ladrona, devuélveme mi cuaderno.
+*Calla, retrasado, que te pones pesado.
+*Maldita aprendiz sin cerebro.
+*Deja de chillar, pareciera que eres un animal.
+*Esa india de mierdecilla no sabe ni contar.
+*Cobarde de mierda, no defiendes tu idea.
+*Oye, guacho, recoge la basura.
+*Enano inútil, no alcanzas la pizarra.
+*No quiero negros en mi grupo de trabajo.
+*Esa marimacho no sirve para enseñar.
+*Pendejo de mierda, ¿por qué respondes así?
+*Gordo asqueroso, deja de comer frente a nosotros.
+*Cállese, vieja chocha, que nadie la aguanta.
+*No necesito cholos analfabetos aquí.
+*Zorra de universidad pobre, vete a tu barrio.
+*Mongólico, no me compares con tu problema.
+*Burra, aprende antes de hablar.
+*Negro de mierda, aprende historia.
+*Retardada, ¿quién te dijo que podías entrar?
+*Esa boliviana apesta a comida chatarra.
+*Maricona, ponte a estudiar ciencias.
+*Basura humana, no tienes nada en la cabeza.
+*Cabecita negra, levanta la mano solo si sabes.
+*Gordita asquerosa, mejor quédate callada.
+*Cholo indio, recoge esa basura del piso.
+*Asquerosa de porro, no te acerques al grupo.
+*No soportamos a los cholitos en clases.
+*Maricón de mierda, quítate de enmedio.
+*Tonta de remate, no sé por qué insistes.
+*Viejo chocho, desconéctate de la clase.
+*India sucia, lava esos platos ya.
+*Cerdo de salón, molestas con tu olor.
+*Arrastrada, no mereces este salón.
+*Negra cochambre, no toques mis libros.
+*Gente de mierda como vos ensucia la clase.
+*Idiota funcional, no aportas nada.
+*Marron, eres un negrazo
+*Aparte de pobre eres imbécil
+*Muerto de hambre, feo y marron
+*Hijo de perra, si tu madre es una zorra
+*No tienes ni puta idea
+*Y llega el imbécil este tarde, como siempre, perdiendo el tiempo de todos.
+*Un cara de culo como este no merece ni que le hablen.
+*Tan simiesco y marrón que su familia es la más pobre del barrio.
+*Mira a este idiota, cree que sabe todo y no sabe ni atarse los zapatos.
+*Qué gorda está, parece que se comió toda la cocina.
+*Este inútil no puede ni sumar dos más dos sin calculadora.
+*Vaya estúpida, siempre hablando sin saber de qué.
+*Es tan feo que asusta a los perros cuando pasa.
+*Un paleto como tú no tiene idea de cómo funcionan las cosas aquí.
+*Mira al nerd este, seguro que nunca ha tenido novia.
+*Es un vago de mierda, nunca hace nada bien.
+*Qué asco de tipo, siempre oliendo a sudor rancio.
+*Esa tipa es tan tonta que no distingue izquierda de derecha.
+*Un fracasado como este nunca va a llegar a nada.
+*Es tan moreno que parece que lo sacaron de una selva.
+*Mira a esta inútil, rompiendo todo lo que toca.
+*Qué cara de estúpido, parece que le falta un tornillo.
+*Este gilipollas cree que es el centro del universo.
+*Es tan pobre que su ropa parece sacada de un basurero.
+*Una zorra como ella solo sirve para causar problemas.
+*Mira al débil este, no puede ni levantar una silla.
+*Es tan ignorante que piensa que la tierra es plana.
+*Qué asco de mujer, siempre con esa cara de amargada.
+*Un idiota como este no debería ni abrir la boca.
+*Es tan sucio que parece que no se baña desde el año pasado.
+*Mira a este payaso, siempre haciendo el ridículo.
+*Es una vaga que solo sabe quejarse todo el día.
+*Qué estúpido, cree que puede engañarnos con esa cara de bobo.
+*Un perdedor como tú no tiene lugar en este grupo.
+*Es tan flaca que parece un esqueleto ambulante.
+*Mira al inútil este, siempre metiendo la pata.
+*Qué asco de tipo, con esos dientes amarillos y torcidos.
+*Es tan lento que una tortuga lo pasa corriendo.
+*Una idiota como ella no debería estar aquí.
+*Mira a este pobre diablo, no tiene ni para un café.
+*Es tan feo que su cara parece un accidente.
+*Qué estúpida, siempre hablando de cosas que no entiende.
+*Un vago como este solo sirve para estorbar.
+*Es tan morena que parece que la pintaron con carbón.
+*Mira a esta inútil, siempre perdiendo el tiempo.
+*Qué cara de imbécil, no sé cómo lo aguantan.
+*Es un gilipollas que no sabe ni dónde está parado.
+*Tan pobre que seguro duerme en la calle.
+*Una zorra como ella siempre está buscando problemas.
+*Mira al débil este, no puede ni abrir una puerta.
+*Es tan ignorante que no sabe ni escribir su nombre.
+*Qué asco de tipa, siempre con esa actitud de mierda.
+*Un fracasado como este nunca va a progresar.
+*Es tan gordo que no cabe ni en la silla.
+*Mira al estúpido este, siempre diciendo tonterías.
+*Qué paleta, parece que vino de un pueblo perdido.
+*Es tan sucio que su casa debe ser un basural.
+*Una tonta como ella no tiene nada que aportar.
+*Mira a este idiota, cree que es más listo que todos.
+*Es fea, parece que la golpearon con un palo.
+*Qué inútil, no puede ni seguir una instrucción simple.
+*Un perdedor como este nunca va a llegar a nada.
+*Es tan moreno que parece que no se lava nunca.
+*Mira a esta vaga, siempre echando la culpa a otros.
+*Qué cara de bobo, parece que no entiende nada.
+*Es un imbécil que siempre está haciendo el ridículo.
+*Tan pobre que su ropa está llena de agujeros.
+*Una estúpida como ella no debería ni hablar.
+*Mira al débil este, no puede ni cargar su mochila.
+*Es tan ignorante que noස
